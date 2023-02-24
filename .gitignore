@@ -1,0 +1,4 @@
+*.idea
+*.json
+*.yaml
+secrets.toml
